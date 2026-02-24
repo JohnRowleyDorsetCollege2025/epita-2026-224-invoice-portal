@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="InvoicePortal.Api/InvoicePortal.Api.csproj" />
+  <Project Path="InvoicePortal.Domain/InvoicePortal.Domain.csproj" />
+</Solution>
