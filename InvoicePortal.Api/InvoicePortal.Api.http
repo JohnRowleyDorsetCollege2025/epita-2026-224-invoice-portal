@@ -6,7 +6,13 @@ Accept: application/json
 ###
 
 
-GET {{InvoicePortal.Api_HostAddress}}/weatherforecast/
+POST {{InvoicePortal.Api_HostAddress}}/api/demo/seed
+Accept: application/json
+
+###
+
+
+GET {{InvoicePortal.Api_HostAddress}}/api/demo/invoices
 Accept: application/json
 
 ###
