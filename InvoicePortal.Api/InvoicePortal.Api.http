@@ -4,3 +4,9 @@ GET {{InvoicePortal.Api_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+
+GET {{InvoicePortal.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
